@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my GitHub!
+
+### I am an engineer who build software for robots! I enable robots to percieve, plan and move
+
+### I am currently a master's student at the Robotics Institute at Carnegie Mellon University in Pittsburgh, USA
+
+### My public repositories contain my work on previous industry projects, personal projects and my assignments at CMU. Feel free to browse through
+
+#### I can be reached at abhinandan.vellanki@gmail.com
 
 <!--
 **AbhinandanVellanki/AbhinandanVellanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
