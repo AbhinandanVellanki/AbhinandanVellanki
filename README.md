@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-### I am an engineer who build software for robots! I enable robots to percieve, plan and move
+### I am an engineer who builds software for robots! I enable robots to percieve their surroundings, plan their actions and move in their environment
 
 ### I am currently a master's student at the Robotics Institute at Carnegie Mellon University in Pittsburgh, USA
 
